@@ -13,12 +13,18 @@ React Native apps may target iOS 9.0 and Android 4.1 (API 16) or newer. You may 
 
 ## 🎉 Building your first React Native app
 
-Follow the [Getting Started guide](https://facebook.github.io/react-native/docs/getting-started.html). The recommended way to install React Native depends on your project. Here you can find short guides for the most common scenarios:
+Assuming that you have Node 10+ installed, you can use npm to install the Expo CLI command line utility:
 
-- [Trying out React Native][hello-world]
-- [Creating a New Application][new-app]
-- [Adding React Native to an Existing Application][existing]
+```
+npm install -g expo-cli
+```
 
-[hello-world]: https://snack.expo.io/@hramos/hello,-world!
-[new-app]: https://facebook.github.io/react-native/docs/getting-started.html
-[existing]: https://facebook.github.io/react-native/docs/integration-with-existing-apps.html
+Then run the following commands to create a new React Native project called "AwesomeProject":
+
+```
+expo init AwesomeProject
+
+cd AwesomeProject
+npm start # you can also use: expo start
+```
+This will start a development server for you.
