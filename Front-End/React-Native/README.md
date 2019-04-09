@@ -25,6 +25,8 @@ Then run the following commands to create a new React Native project called "Awe
 expo init AwesomeProject
 
 cd AwesomeProject
-npm start # you can also use: expo start
+npm start  
+or
+expo start
 ```
 This will start a development server for you.
