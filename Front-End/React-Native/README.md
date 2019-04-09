@@ -3,11 +3,9 @@
     React Native
   </a>
 </h1>
-===
 
 A JavaScript library for building user interfaces for mobile devices
 ---
-
 
 ## 📋 Requirements
 
