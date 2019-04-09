@@ -11,7 +11,7 @@ A JavaScript library for building user interfaces.
 You’ll need to have Node >= 6 and npm >= 5.2 on your machine.
 
 
-## 🎉 Building your first React Native app
+## 🎉 Building your first React app
 ```
 npx create-react-app my-app
 cd my-app
