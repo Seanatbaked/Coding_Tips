@@ -36,3 +36,15 @@ Amazon Cognito is a service that you can use to create unique identities for you
     Amazon Cognito Sync CLI Reference
   </a>
 </h2>
+
+<h2>
+  <a href="https://docs.aws.amazon.com/cognito-user-identity-pools/latest/APIReference/Welcome.html">
+    Amazon Cognito Your User Pools API Reference
+  </a>
+</h2>
+
+<h2>
+  <a href="https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/index.html">
+    Amazon Cognito Your User Pools CLI Reference
+  </a>
+</h2>
