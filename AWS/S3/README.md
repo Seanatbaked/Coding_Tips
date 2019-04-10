@@ -13,18 +13,26 @@ Amazon Simple Storage Service (Amazon S3) is storage for the internet. You can u
 
 ## 🎉 How to use S3
 
-<a href="https://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html">
-  Getting Started Guide
+<h2>
+  <a href="https://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html">
+    Getting Started Guide
   </a>
-  
+</h2>
+
+<h2>
   <a href="https://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html">
-  Developers Guide
+    Developers Guide
   </a>
-  
+</h2>
+
+<h2>
   <a href="https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html">
-  API Reference
+    API Reference
   </a>
-  
+</h2>
+
+<h2>
   <a href="https://docs.aws.amazon.com/AmazonS3/latest/user-guide/what-is-s3.html">
-  Console User Guide
+    Console User Guide
   </a>
+</h2>
