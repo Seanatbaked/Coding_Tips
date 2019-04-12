@@ -4,7 +4,9 @@
   </a>
 </h1>
 
-SQLite 
+SQLite Small. Fast. Reliable.
+Choose any three.
+
 ---
 
 ## 📋 What is SQLite?
