@@ -4,8 +4,7 @@
   </a>
 </h1>
 
-SQLite Small. Fast. Reliable.
-Choose any three.
+Small. Fast. Reliable. Choose any three.
 
 ---
 
